@@ -1,4 +1,4 @@
- Distribution / packaging
+# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -31,6 +31,9 @@ wheels/
 *.pt
 *.mp4
 *.avi
+
+# Sonstiges
+
 
 
 
