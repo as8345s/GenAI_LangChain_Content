@@ -33,7 +33,7 @@ wheels/
 *.avi
 
 # Sonstiges
-
+GAN/data/data/1__GAN/*
 
 
 
