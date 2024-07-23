@@ -34,6 +34,7 @@ wheels/
 
 # Sonstiges
 GAN/data/data/1__GAN/*
+GAN/data/datasets/archive/*
 
 
 
